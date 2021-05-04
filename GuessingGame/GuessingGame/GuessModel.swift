@@ -2,16 +2,13 @@
 //  GuessModel.swift
 //  GuessingGame
 //
-//  Created by Terence Lee on 4/5/2021.
+//  Created by Terence Lee on 21/10/2020.
 //
 
 import Foundation
 
 class GuessModel
 {
-    
-    
-    
     var emojis = ["🐨","🐷","🐼"]
     var indexOfA = 0
     lazy var indexOfB = Int.random(in: 0..<emojis.count)
