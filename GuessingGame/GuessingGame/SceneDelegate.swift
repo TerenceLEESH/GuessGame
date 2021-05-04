@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  GuessingGame
 //
-//  Created by Terence Lee on 4/5/2021.
+//  Created by Terence Lee on 21/10/2020.
 //
 
 import UIKit
